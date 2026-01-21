@@ -1,0 +1,5 @@
+__pycache__/
+.env
+*.txt
+api_key*
+*.lnk
